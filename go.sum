@@ -1,0 +1,6 @@
+github.com/sebarcode/codekit v0.1.0 h1:yPYtVJyfEIc7qQDwRZHt29P0rMv5m2Wsck88Gdox4zQ=
+github.com/sebarcode/codekit v0.1.0/go.mod h1:o54sVKGC7+M1leMkKhVXssOXwuHCylW5GJto0UiQJEg=
+github.com/sebarcode/logger v0.1.1 h1:qy8Ip5UacaK4LFE0hN/HXUCIu3ZBe4uta8WHQ067jfQ=
+github.com/sebarcode/logger v0.1.1/go.mod h1:dBcREBmgQLUN1kAAs5t9y7dN5RUp+OYEsk4rqUWuM5Q=
+golang.org/x/text v0.17.0 h1:XtiM5bkSOt+ewxlOE/aE/AKEHibwj/6gvWMl9Rsh0Qc=
+golang.org/x/text v0.17.0/go.mod h1:BuEKDfySbSR4drPmRPG/7iBdf8hvFMuRexcpahXilzY=
